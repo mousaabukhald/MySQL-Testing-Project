@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-25T23:34:28 GMT+03:00" name="Default suite" finished-at="2025-05-25T23:34:33 GMT+03:00" duration-ms="4376">
+    <groups>
+    </groups>
+    <test started-at="2025-05-25T23:34:28 GMT+03:00" name="Default test" finished-at="2025-05-25T23:34:33 GMT+03:00" duration-ms="4376">
+      <class name="SQL.TestCaseSQL.DataBase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SQL.TestCaseSQL.DataBase@54e22bdd]" started-at="2025-05-25T23:34:28 GMT+03:00" name="setup" finished-at="2025-05-25T23:34:32 GMT+03:00" duration-ms="4173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UpdetDataBase()[pri:2, instance:SQL.TestCaseSQL.DataBase@54e22bdd]" started-at="2025-05-25T23:34:32 GMT+03:00" name="UpdetDataBase" finished-at="2025-05-25T23:34:32 GMT+03:00" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdetDataBase -->
+        <test-method signature="ReadtDataBase()[pri:3, instance:SQL.TestCaseSQL.DataBase@54e22bdd]" started-at="2025-05-25T23:34:32 GMT+03:00" name="ReadtDataBase" finished-at="2025-05-25T23:34:33 GMT+03:00" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadtDataBase -->
+      </class> <!-- SQL.TestCaseSQL.DataBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
